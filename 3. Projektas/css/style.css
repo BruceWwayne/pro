@@ -1,0 +1,55 @@
+div.background {
+
+    border: 2px solid black;
+}
+div.transbox {
+    margin: 30px;
+    background-color: white;
+    border: 1px solid black;
+}
+.logo{
+  text-align: center;
+
+}
+
+
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+.add{
+  width: 200px;
+  height: 30px;
+  float: right;
+  border: double black;
+  border-radius: 10px;
+  background-color: #98cdd6;
+  
+
+}
+.addtext{
+
+  text-align: center;
+  font-weight: bold;
+}
+.article{
+  position: relative;
+  background: silver;
+  text-align: justify;
+  padding: 10px;
+  border-bottom-left-radius: 50px;
+  border-top-right-radius: 50px;
+  width: 100%;
+
+  margin: auto;
+  box-shadow: 2px 2px 15px black;
+  margin-bottom:  15px;
+
+
+}
+.fieldset{
+  width: 50%;
+  margin: auto;
+}
