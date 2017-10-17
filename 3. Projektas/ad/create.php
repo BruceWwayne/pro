@@ -20,6 +20,9 @@ require_once("../connection/disconnect.php");
 if($stmt->execute()){
 //  header("Location: /calendar.php");
 }else{
+
   echo $stmt->error;
+
 }
+
  ?>
